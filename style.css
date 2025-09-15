@@ -9,4 +9,4 @@ a { color: var(--blue); }
 /* example: make headings blue and a bit larger */
 h2 { color: var(--gold); font-size: 1.9rem; }
 /* example: make your photo round */
-img { border-radius: 12px; }
+img { border-radius: 50%; }
